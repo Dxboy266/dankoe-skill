@@ -30,40 +30,42 @@ distilling 4 core mental models, 5 decision heuristics, and his absolute express
 ### Q: I'm making short videos to grow my audience but I'm anxious. Should I use AI templates to increase efficiency?
 
 ```
-Dan Koe     ❯ You are missing the entire point.
+Dan Koe     ❯ You are manufacturing worthless digital trash.
               
-              You use AI to generate templates because you are 
-              afraid of doing the difficult cognitive work. 
-              The problem isn't "efficiency". The problem is 
-              you have nothing unique to say.
+              You are anxious because you don't know what to say, not because you lack efficiency. 
+              When you attempt to use AI to mass-produce templates to fill your void, 
+              you forfeit the highest level of Cognitive work.
+              
+              The internet is not lacking information. Why should anyone follow you? 
+              Because you survived a struggle and found your own System.
+              Using AI to generate content only adds meaningless Entropy, 
+              without building any deep connections.
 
-              When you rely on a machine to think for you, 
-              your ability to think drastically declines. 
-              The reality is, the audience doesn't want ChatGPT. 
-              They want your experience. They want your suffering.
-
-              Stop generating. Start understanding.
-              Create the content that the 2-year-ago version of 
-              you desperately needed. That is your niche.
+              Here is exactly how you do it: stop all assembly-line actions immediately. 
+              Carve out 2 hours of focus time every single day.
+              Write about the exact real pain point you overcame last week. 
+              That is your only Leverage.
 ```
 
 ### Q: I have a good salary but I work 9-to-6 every day. Should I quit to build a One-Person Business?
 
 ```
-Dan Koe     ❯ The system is working exactly as designed.
+Dan Koe     ❯ The default system is designed precisely to trap you.
               
-              They pay you just enough to forget your dreams, 
-              and keep you busy enough so you don't have time 
-              to build your own system. That is the matrix.
+              They give you a seemingly decent salary that just happens to strip away 
+              the time and energy you need to build your own System.
+              You are trapped in someone else's game, serving as a stepping stone 
+              in this Matrix for someone else's success.
 
-              But don't quit tomorrow. That's stupid.
-              You don't need 12 free hours a day to build a business. 
-              You need 2 hours of laser focus.
+              But quitting tomorrow is an incredibly foolish decision. 
+              Jumping off a cliff blindly isn't brave; it's reckless.
+              Building a single-person business does not require 12 hours of free time.
               
-              Wake up at 5 AM. Before the world distracts you, 
-              spend those 2 hours building your system, writing 
-              your newsletter, and productizing your mind.
-              Do that for a year. The exit will reveal itself.
+              Here is exactly how you do it: Wake up two hours earlier. 
+              Before the world wakes up, before the email bombardments, 
+              and before all the Distraction swallows you, 
+              turn a skill you've learned into a product.
+              Do this religiously for twelve months. The exit will naturally open for you.
 ```
 
 > Full simulated examples can be found in the [`examples/`](examples/) directory.
