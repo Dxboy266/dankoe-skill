@@ -2,6 +2,8 @@
 
 # Dan Koe.skill
 
+[English](./README_EN.md) | 简体中文
+
 > *"You suffer because you refuse to create your own system. So you are forced to live in the system created for you."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
