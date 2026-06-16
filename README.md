@@ -163,7 +163,7 @@ MIT — 随便用，随便改，随便重构你的心智。
 
 ## 关于作者
 
-**Dxboy266** — [你的简介]
+**Dxboy266** — ai时代的思考者践行者，如果这个skill对你有帮助还请点一个免费的star
 
 结合 女娲 (Nuwa) 方法论生成。
 *You suffer because you refuse to create your own system.*
